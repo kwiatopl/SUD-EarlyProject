@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1433571716 source:d:\sud_project-master\creature.cpp
+	"creature.h"
+
+1433571716 d:\sud_project-master\creature.h
+	<limits>
+
+1433571716 source:d:\sud_project-master\enemy.cpp
+	"enemy.h"
+
+1433571716 d:\sud_project-master\enemy.h
+	"creature.h"
+	<string>
+
+1433571716 source:d:\sud_project-master\event.cpp
+	"event.h"
+
+1433571716 d:\sud_project-master\event.h
+	<stdio.h>
+	<cstdlib>
+	"fight.h"
+	"player.h"
+	"enemy.h"
+	"item.h"
+	"mppotion.h"
+	"hppotion.h"
+	<string>
+	<cstdlib>
+
+1433571716 d:\sud_project-master\fight.h
+	"player.h"
+	"enemy.h"
+	"gui.h"
+	<conio.h>
+	<cstdlib>
+
+1433571716 d:\sud_project-master\player.h
+	"creature.h"
+	"location.h"
+
+1433571716 d:\sud_project-master\location.h
+	"field.h"
+	"player.h"
+
+1433571716 d:\sud_project-master\field.h
+	"event.h"
+	"player.h"
+
+1433571716 d:\sud_project-master\gui.h
+	"player.h"
+	"fight.h"
+	"location.h"
+	"enemy.h"
+	<conio.h>
+	<stdio.h>
+	<iostream>
+	"location.h"
+
+1433571716 d:\sud_project-master\item.h
+
+1433571716 d:\sud_project-master\mppotion.h
+	"item.h"
+	"player.h"
+
+1433571716 d:\sud_project-master\hppotion.h
+	"item.h"
+	"player.h"
+
+1433571716 source:d:\sud_project-master\field.cpp
+	"field.h"
+	"stdlib.h"
+
+1433571716 source:d:\sud_project-master\fight.cpp
+	"fight.h"
+
+1433571716 source:d:\sud_project-master\gui.cpp
+	"gui.h"
+
+1433571716 source:d:\sud_project-master\hppotion.cpp
+	"hppotion.h"
+
+1433571716 source:d:\sud_project-master\item.cpp
+	"item.h"
+
+1433571716 source:d:\sud_project-master\location.cpp
+	"location.h"
+	<stdio.h>
+
+1458255738 source:d:\sud_project-master\main.cpp
+	"creature.h"
+	"location.h"
+	"gui.h"
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+
+1433571716 source:d:\sud_project-master\mppotion.cpp
+	"mppotion.h"
+
+1433571716 source:d:\sud_project-master\player.cpp
+	"player.h"
+
+1433571716 source:d:\sud_project-master\teleport.cpp
+	"teleport.h"
+
+1433571716 d:\sud_project-master\teleport.h
+
